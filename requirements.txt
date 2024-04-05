@@ -1,1 +1,4 @@
 fastapi[all]
+pymongo[all]
+uvicorn[all]
+pydantic[all]
